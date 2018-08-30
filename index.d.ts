@@ -6,10 +6,10 @@ import { IonicNativePlugin } from '@ionic-native/core';
  *
  * @usage
  * ```typescript
- * import { baidumaploc } from '@ionic-native/baidumaploc';
+ * import { BaiduMapLoc } from 'baidumaploc';
  *
  *
- * constructor(private baidumaploc: baidumaploc) { }
+ * constructor(private baidumaploc: BaiduMapLoc) { }
  *
  * ...
  *
