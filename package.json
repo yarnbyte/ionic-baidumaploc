@@ -1,6 +1,6 @@
 {
   "name": "baidumaploc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "在Ionic3+中通过cordova-plugin-baidumaplocation配合这个来获取定位信息。",
   "module": "index.js",
   "typings": "index.d.ts",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plat10510/baidumaploc.git"
+    "url": "git+https://github.com/plat10510/ionic-baidumaploc.git"
   },
   "bugs": {
-    "url": "https://github.com/plat10510/baidumaploc/issues"
+    "url": "https://github.com/plat10510/ionic-baidumaploc/issues"
   },
-  "homepage": "https://github.com/plat10510/baidumaploc#readme",
+  "homepage": "https://github.com/plat10510/ionic-baidumaploc#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
