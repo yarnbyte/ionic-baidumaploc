@@ -14,7 +14,7 @@ import { IonicNativePlugin } from '@ionic-native/core';
  * ...
  *
  *
- * this.baidumaploc.functionName('Hello', 123)
+ * this.baidumaploc.getCurrentPosition()
  *   .then((res: any) => console.log(res))
  *   .catch((error: any) => console.error(error));
  *
